@@ -12,3 +12,7 @@
 می توانید ما را در بهبود پایگاه ند فارسی یاری نمایید. برای آشنایی با نحوه مشارکت به 
 [این صفحه](http://nodejs.ir/how-to-contribute)
  مراجعه کنید.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/behrang/nodejs.ir/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
